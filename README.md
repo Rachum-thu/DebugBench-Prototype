@@ -1,3 +1,3 @@
 # DebugBench-Prototype
 
-安装py-qt6，然后执行main_logic.py
+install py-qt6，and then main_logic.py
